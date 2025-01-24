@@ -2,13 +2,13 @@
 # important settings can be changed from the admin interface.
 
 defaults: &defaults
-  site_title: Hexennacht
+  site_title: Whippy Edition
   site_short_description: ''
   site_description: ''
   site_extended_description: ''
   site_terms: ''
-  site_contact_username: 'hexennach7 운영진'
-  site_contact_email: 'hexennach7@gmail.com'
+  site_contact_username: 'notice'
+  site_contact_email: 'whippyshou@gmail.com'
   registrations_mode: 'open'
   profile_directory: true
   closed_registrations_message: ''
